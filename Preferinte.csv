@@ -1,0 +1,27 @@
+model,Mode model,Mode fuelType,Mode engineSize
+ A1,Manual,Petrol,1.4
+ A2,Manual,Diesel,1.4
+ A3,Manual,Petrol,2.0
+ A4,Manual,Diesel,2.0
+ A5,Automatic,Diesel,2.0
+ A6,Semi-Auto,Diesel,2.0
+ A7,Semi-Auto,Diesel,3.0
+ A8,Automatic,Diesel,3.0
+ Q2,Manual,Petrol,1.6
+ Q3,Manual,Petrol,2.0
+ Q5,Semi-Auto,Diesel,2.0
+ Q7,Automatic,Diesel,3.0
+ Q8,Automatic,Diesel,3.0
+ R8,Automatic,Petrol,4.2
+ RS3,Semi-Auto,Petrol,2.5
+ RS4,Semi-Auto,Petrol,2.9
+ RS5,Automatic,Petrol,2.9
+ RS6,Automatic,Petrol,4.0
+ RS7,Automatic,Petrol,4.0
+ S3,['Automatic' 'Semi-Auto'],Petrol,2.0
+ S4,Automatic,Petrol,3.0
+ S5,Automatic,Petrol,3.0
+ S8,Automatic,Petrol,4.0
+ SQ5,Automatic,Diesel,3.0
+ SQ7,Automatic,Diesel,4.0
+ TT,Manual,Petrol,2.0
